@@ -12,7 +12,7 @@ permissions:
 env:
   AWS_REGION: eu-central-1
   ECR_REPOSITORY: saki-ecr-lab
-  IMAGE_TAG: saki_ecr_nodeapp
+  IMAGE_TAG: saki_ecrlab_nodeapp
 
 jobs:
   build-and-push:
