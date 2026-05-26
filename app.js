@@ -18,7 +18,8 @@ app.get('/', (req, res) => {
       <body>
         <div class="card">
           <h1>Node.js Docker App</h1>
-          <p>Status: Running successfully-- REVIEWED</p>
+          <p>Status: Running successfully REVIEWED</p>
+          <p>TESTING: to show that actions tiggered on push to main branch</p>
           <p>Version: ${appVersion}</p>
         </div>
       </body>
