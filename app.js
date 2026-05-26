@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
       <body>
         <div class="card">
           <h1>Node.js Docker App</h1>
-          <p>Status: Running successfully</p>
+          <p>Status: Running successfully-- REVIEWED</p>
           <p>Version: ${appVersion}</p>
         </div>
       </body>
